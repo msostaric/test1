@@ -2,3 +2,4 @@ This is the first line.
 the second line
 the third line
 this line is created on master
+new line
