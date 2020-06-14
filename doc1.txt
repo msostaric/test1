@@ -1,5 +1,5 @@
 This is the first line.
-the second line
+the second line, and one change in it
 the third line
 this line is created on master
 new line
